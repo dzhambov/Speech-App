@@ -16,10 +16,6 @@ const data = [
   },
   {
     image: './img/tired.jpg',
-    text: "I'm Hungry"
-  },
-  {
-    image: './img/food.jpg',
     text: "I'm Tired"
   },
   {
